@@ -41,7 +41,7 @@ const modals = {
   },
   share: {
     Component: ShareModal,
-    width: 900,
+    width: 1200,
   },
   deployment: {
     Component: DeploymentModal,
